@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d4b3e09-0d9e-404f-9def-cc9ebde7759a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/code/Wschoolwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/a2z.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/ars.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/code/calcutator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/hart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/loginpwrd.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/code/loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/loop1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/paternprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/printAinstar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/tple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/treepatern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/triang.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code" beforeDir="false" afterPath="$PROJECT_DIR$/code" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,6 +188,12 @@
       <workItem from="1657037555085" duration="3589000" />
       <workItem from="1657082403604" duration="6841000" />
       <workItem from="1657252931963" duration="9561000" />
+      <workItem from="1657859860511" duration="28000" />
+      <workItem from="1657859956713" duration="10000" />
+      <workItem from="1657859986706" duration="25000" />
+      <workItem from="1657860027235" duration="28000" />
+      <workItem from="1657860077472" duration="57000" />
+      <workItem from="1657860180269" duration="11000" />
     </task>
     <servers />
   </component>
